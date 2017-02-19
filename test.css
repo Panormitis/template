@@ -1,6 +1,8 @@
 .header {
 	height: 100px;
-	background: rgba(34, 47, 62, 0.8);
+	background: url(http://im3.ezgif.com/tmp/ezgif-3-c6692b9821.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
 	overflow: hidden;
 	padding: 0;
 }
