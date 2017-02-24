@@ -51,6 +51,11 @@ video {
 	/*margin-bottom: 50px;*/
 }
 
+.pictureContainer img{
+	max-height:400px;
+	max-width:420px;"
+}
+
 .descriptionContainer {
 	display: block;
 	float: right;
@@ -279,4 +284,11 @@ iframe {
 	#logo {
 		height: 35px;
 	}
+}
+
+@media screen and (max-width: 767px) {
+	.pictureContainer img{
+	max-height:100%;
+	max-width:300px;"
+}
 }
