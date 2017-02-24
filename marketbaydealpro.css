@@ -41,7 +41,7 @@ video {
 }
 
 .pictureContainer {
-  width:100%;
+  	width:100%;
 	display: block;
 	float: left;
 	margin-right: 5px;
@@ -52,8 +52,8 @@ video {
 }
 
 .pictureContainer img{
-	max-height:400px;
-	max-width:420px;"
+	max-height: 400px;
+	max-width: 95%;"
 }
 
 .descriptionContainer {
@@ -289,6 +289,6 @@ iframe {
 @media screen and (max-width: 767px) {
 	.pictureContainer img{
 	max-height:100%;
-	max-width:90vw;
+	max-width:95%;
 }
 }
