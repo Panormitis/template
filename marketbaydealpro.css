@@ -289,6 +289,6 @@ iframe {
 @media screen and (max-width: 767px) {
 	.pictureContainer img{
 	max-height:100%;
-	max-width:300px;"
+	max-width:90vw;
 }
 }
