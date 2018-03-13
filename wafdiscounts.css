@@ -1,5 +1,5 @@
 .header {
-	height: 130px;
+	height: 100px;
 	background: url(https://Panormitis.github.io/template/simple-home-header.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -67,7 +67,7 @@ video {
 }
 
 #logo {
-	height: 55px;
+	height: 40px;
 	float: left;
 }
 
@@ -198,10 +198,6 @@ iframe {
 .tabs ul li {
 	margin-right: 15px;
 }
-	
-#logo {
-	height: 55px;
-}
 
 .tabs ul li a {
 		font-size: 10px;	
@@ -230,7 +226,7 @@ iframe {
 }
 
 	#logo {
-		height: 55px;
+		height: 35px;
 	}
 
 	.pictureContainer {
@@ -269,7 +265,7 @@ iframe {
 }
 
 	#logo {
-		height: 55px;
+		height: 35px;
 	}
 
 	.pictureContainer {
@@ -280,6 +276,6 @@ iframe {
 
 @media screen and (min-width: 980px) and (max-width: 992px) {
 	#logo {
-		height: 55px;
+		height: 35px;
 	}
 }
