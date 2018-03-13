@@ -198,6 +198,10 @@ iframe {
 .tabs ul li {
 	margin-right: 15px;
 }
+	
+#logo {
+	height: 55px;
+}
 
 .tabs ul li a {
 		font-size: 10px;	
