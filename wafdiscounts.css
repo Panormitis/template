@@ -1,5 +1,5 @@
 .header {
-	height: 100px;
+	height: 130px;
 	background: url(https://Panormitis.github.io/template/simple-home-header.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -67,7 +67,7 @@ video {
 }
 
 #logo {
-	height: 45px;
+	height: 50px;
 	float: left;
 }
 
