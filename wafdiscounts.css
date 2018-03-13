@@ -150,13 +150,13 @@ a:hover {
 }
 
 a {
-	color: eb2845;
+	color: #eb2845;
 	font-weight: 700;
 }
 
 a:visited {
 	text-decoration: none;
-	color: white;
+	color: #eb2845;
 	font-weight: 700;
 }
 
